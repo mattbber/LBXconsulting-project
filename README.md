@@ -5,8 +5,8 @@ Working for Loqbox Ltd, this project analysed feedback data using Natural Langua
 - [Data Cleaning](#Data_cleaning)
 - [Features](#features)
 - [Analysis](#Analysis)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Report](#report)
+- [Presentation](#contributing)
 - [License](#license)
 
 # Data_cleaning
@@ -15,3 +15,9 @@ Working for Loqbox Ltd, this project analysed feedback data using Natural Langua
 The complete project - this shows how data was analysed and visualised to suggest changes to the client
 
 # Analysis
+
+# Report
+
+# Presentation
+
+# License
