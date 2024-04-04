@@ -2,7 +2,7 @@
 
 Working for Loqbox Ltd, this project analysed feedback data using Natural Language Processing using innovative data science technqiues. This project aimed to identify key insights into the performance of thier business model and opportunities for the company.
 
-- [Data Cleaning](#Data_Cleaning)
+- [Data Cleaning](#https://github.com/mattbber/LBXconsulting-project/blob/main/Data_Cleaning.ipynb)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
