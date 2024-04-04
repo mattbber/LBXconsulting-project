@@ -27,4 +27,4 @@ Contains two presentations that we gave to our clients
 
 # License
 
-Due to the license signed during our consulting project and with respect to ethical considerations in accordance with GDPR, the raw data and many names of people involved have been removed from this repository.
+Due to the license signed during our consulting project and with respect to ethical considerations in accordance with GDPR, the raw data and many names of people involved have been removed or redacted from this repository.
