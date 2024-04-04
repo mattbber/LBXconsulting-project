@@ -12,12 +12,17 @@ Working for Loqbox Ltd, this project analysed feedback data using Natural Langua
 # Data_cleaning
 - This file shows how the data was cleaned ready for analysis
 
-The complete project - this shows how data was analysed and visualised to suggest changes to the client
-
 # Analysis
+
+The complete project - this shows how data was analysed and visualised to suggest changes to the client
 
 # Report
 
+This report serves as a comprhensive insghts from our analysis was written and marked by the university, detailing the analytics problem, our solution, our technical development throughout the project and our effective teamwork.
+
+
 # Presentation
+
+
 
 # License
