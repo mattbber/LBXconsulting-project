@@ -9,7 +9,7 @@ Working for Loqbox Ltd, this project analysed feedback data using Natural Langua
 - [Presentation](#contributing)
 - [License](#license)
 
-# Data_cleaning
+# data_cleaning
 - This file shows how the data was cleaned ready for analysis
 
 # Analysis
@@ -23,6 +23,8 @@ This report serves as a comprhensive insghts from our analysis was written and m
 
 # Presentation
 
-
+Contains two presentations that we gave to our clients
 
 # License
+
+Due to the license signed during our consutling project the data and many names of people have been removed from this repository.
