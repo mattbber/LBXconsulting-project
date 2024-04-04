@@ -1,7 +1,9 @@
 # Loqbox-ConsultingProject
+# Introduction
 
 Working for Loqbox Ltd, this project analysed feedback data using Natural Language Processing using innovative data science technqiues. This project aimed to identify key insights into the performance of thier business model and opportunities for the company.
 
+- [Introduction](#Introduction)
 - [Data Cleaning](#Data_cleaning)
 - [Features](#features)
 - [Installation](#installation)
